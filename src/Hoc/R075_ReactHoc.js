@@ -8,4 +8,4 @@ class R075_ReactHoc extends React.Component {
     }
 }
 
-export default withHocComponent(R075_ReactHoc, 'R075_ReactHoc')
+export default withHocComponent(R075_ReactHoc, 'R075_ReactHoc') /* 컴포넌트를 매개변수로 고차 컴포넌트에 감싸서 보냄! */
